@@ -1,0 +1,6 @@
+{
+  "name": "Help Us Fight for Luis Villagrana - Legal Defense Fund",
+  "description": "Official legal defense fundraiser for Luis Villagrana organized by the Villagrana Family. Urgent goal: $20,000 for independent legal defense and case review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
